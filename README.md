@@ -17,3 +17,4 @@ See `/Screenshots` folder for setup and analysis.
 - Splunk
 - Linux (Ubuntu 20.04)
 - Bash
+# linux-authlog-splunk-project
